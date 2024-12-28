@@ -7,3 +7,6 @@ In This pipeline, I extend the application of CycleGAN through **Hyperparameter 
 
 
 I have deployed the model on HuggingFace Spaces and Utilized Gradio.io to create a simple UI. You can try the model here by uploading a landscape or nature image and the results should be Van Gogh Styled (based on the model performance so far). [Here](https://huggingface.co/spaces/rwankhalifa/van_gogh) is the link for the deployed model.
+
+Review this Documentation for full Pipeline Analysis:
+[Pipeline Documentation & Analysis](https://drive.google.com/file/d/1kpAFUq4-xkajFX0naFByBZAMClIryTF9/view?usp=sharing)
